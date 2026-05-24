@@ -72,6 +72,8 @@ Características:
 ---
 
 # Funcionalidades Implementadas
+<img width="1365" height="767" alt="Captura de pantalla 2026-05-23 203724" src="https://github.com/user-attachments/assets/7dd9f6a2-a3df-4a38-a86e-f389b2ed415c" />
+<img width="1365" height="767" alt="Captura de pantalla 2026-05-23 203713" src="https://github.com/user-attachments/assets/2bc3c6a7-9a5f-49f9-b051-c93907339ef8" />
 
 ✔ Encapsulamiento  
 ✔ Herencia  
